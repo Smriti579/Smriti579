@@ -2,7 +2,7 @@
 
 🎓 B.Tech Artificial Intelligence (Amity University, Noida)  
 💡 Passionate about **Machine Learning, Deep Learning & Full-Stack Development**  
-🌱 Currently exploring **AI applications in data-driven systems & privacy-preserving ML**  
+🌱 Currently exploring **AI applications in data-driven systems**  
 ✨ Motto: *Bridging theory & practice in AI*  
 
 ---
