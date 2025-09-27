@@ -23,7 +23,7 @@
 ---
 
 ## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/smriti-mahajan/)  
+- [LinkedIn](https://www.linkedin.com/in/smriti-mahajan-68a505274/)  
 - [GitHub](https://github.com/Smriti579)  
 - [Email](mailto:smritimahajan579@gmail.com)  
 
