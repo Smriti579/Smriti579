@@ -11,13 +11,14 @@
 - **Languages:** Python, C, JavaScript (basics) 
 - **AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
 - **Web Dev:** React, Node.js 
-- **Other Tools:** Git, GitHub, Jupyter, SQL  
+- **Other Tools:** GitHub, Jupyter, SQL  
 
 ---
 
 ## 📌 Featured Projects
 - [Women Safety PN Optimised](https://github.com/Smriti579/women-safety-pn-optimised) – Data-driven analytics for safety insights.  
-- [Self-Healing AI for Network Security](https://github.com/Smriti579/Self-Healing-AI-for-Network-Security) – Applying AI to improve resilience in networks.  
+- [Self-Healing AI for Network Security](https://github.com/Smriti579/Self-Healing-AI-for-Network-Security) – Applying AI to improve resilience in networks.
+- [Neuro-Care AI](https://github.com/Smriti579/Neuro-Care-Chatbot)-Mental Health Support Chatbot
 - *More projects coming soon — stay tuned!*  
 
 ---
