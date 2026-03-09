@@ -19,6 +19,7 @@
 - [Women Safety PN Optimised](https://github.com/Smriti579/women-safety-pn-optimised) – Data-driven analytics for safety insights.  
 - [Self-Healing AI for Network Security](https://github.com/Smriti579/Self-Healing-AI-for-Network-Security) – Applying AI to improve resilience in networks.
 - [Neuro-Care AI](https://github.com/Smriti579/Neuro-Care-Chatbot)-Mental Health Support Chatbot
+- [AI Insurance Support Assistant](https://github.com/Smriti579/AI-Insurance-Support-Assistant)-AI Agent prototype for insurance customer support automation.
 - *More projects coming soon — stay tuned!*  
 
 ---
