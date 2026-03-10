@@ -11,7 +11,7 @@
 
 **Programming Languages**
 - Python
-- Java
+- Java (basic)
 
 **AI / Machine Learning**
 - TensorFlow
