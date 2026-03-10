@@ -7,11 +7,35 @@
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages:** Python, C, JavaScript (basics) 
-- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
-- **Web Dev:** React, Node.js 
-- **Other Tools:** GitHub, Jupyter, SQL  
+## 🛠 Skills & Tools
+
+**Programming Languages**
+- Python
+- Java
+
+**AI / Machine Learning**
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- NumPy
+- Pandas
+- OpenCV
+- Librosa
+
+**Web Development**
+- React.js
+- Node.js (basic)
+
+**Databases**
+- MySQL
+- NoSQL
+- Supabase
+
+**Tools & Platforms**
+- Git & GitHub
+- Jupyter Notebook
+- Linux
+- Windows
 
 ---
 
